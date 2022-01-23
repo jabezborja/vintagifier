@@ -1,3 +1,9 @@
-<h1 align="center">Vintifier</h1>
-<p align="center">Vintagify a photo in seconds.</p>
+# Vintagifier
+Vintagifier will turn your photos into WW2 Vintage Photos in seconds.
 
+<table style="margin-top: 5px;">
+  <tr>
+    <td valign="top"><img align="left" src="https://user-images.githubusercontent.com/64759159/150678732-45a0d6f6-2a55-4480-8849-c08872467a0d.png" alt="jabezborja" /></td>
+    <td valign="top"><img align="center" src="https://user-images.githubusercontent.com/64759159/150678623-3848eed5-6adb-427c-9683-06ce5846d3a2.png" alt="jabezborja" /></td>
+  </tr>
+</table>
