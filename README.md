@@ -24,3 +24,5 @@ After the installation, you can now run Vintagifier by:
 ```
 py main.py
 ```
+
+And it will ask you the location of the files you want to vintagify. After vintagifying, the file will be on `/out` directory.
